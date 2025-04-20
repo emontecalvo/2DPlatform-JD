@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cpymrioiw8d0e"
+path="res://.godot/imported/Enemy Block Smash.wav-37dcf530298a1db95d39cc4ab928aa01.sample"
+
+[deps]
+
+source_file="res://2DPlatformer-JamesDoyle/Assets/_Udemy 2D Platformer Assets/Audio/SFX/Enemy Block Smash.wav"
+dest_files=["res://.godot/imported/Enemy Block Smash.wav-37dcf530298a1db95d39cc4ab928aa01.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

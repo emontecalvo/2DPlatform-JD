@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d3vj4ak76q03l"
+path="res://.godot/imported/Level 1.wav-da279390a073a4f4fd384c390092c248.sample"
+
+[deps]
+
+source_file="res://2DPlatformer-JamesDoyle/Assets/_Udemy 2D Platformer Assets/Audio/Music/Level 1.wav"
+dest_files=["res://.godot/imported/Level 1.wav-da279390a073a4f4fd384c390092c248.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://iwi7u8kuq0qm"
+path="res://.godot/imported/Get Extra Life.wav-f67eb9d23dc4976b06001ac204dc4977.sample"
+
+[deps]
+
+source_file="res://2DPlatformer-JamesDoyle/Assets/_Udemy 2D Platformer Assets/Audio/SFX/Get Extra Life.wav"
+dest_files=["res://.godot/imported/Get Extra Life.wav-f67eb9d23dc4976b06001ac204dc4977.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

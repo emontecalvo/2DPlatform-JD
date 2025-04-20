@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dpvvtp3wbolrg"
+path="res://.godot/imported/Get Health.wav-1bc9efa3e5130dc43a90d7946cb7b6d6.sample"
+
+[deps]
+
+source_file="res://2DPlatformer-JamesDoyle/Assets/_Udemy 2D Platformer Assets/Audio/SFX/Get Health.wav"
+dest_files=["res://.godot/imported/Get Health.wav-1bc9efa3e5130dc43a90d7946cb7b6d6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
